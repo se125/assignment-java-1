@@ -1,0 +1,28 @@
+.qoute h1 {
+    font-size: 80px;
+    font-weight: 900;
+    margin-bottom: 50px;
+    font-family: "Poetsen One", sans-serif;
+}
+
+.qoute p {
+    font-size: 35px;
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-family: "Poetsen One", sans-serif;
+}
+
+
+
+.qoute button {
+    width: 200px;
+    height: 70px;
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 0, 255);
+    transition: all 1s;
+}
+
+.qoute button:hover {
+    background-color: green;
+}
